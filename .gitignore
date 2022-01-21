@@ -1,10 +1,10 @@
-obj/
-Library/
-Logs/
-Temp/
-Builds/
-*.sln
-*.csproj
+conquerField/obj/
+conquerField/Library/
+conquerField/Logs/
+conquerField/Temp/
+conquerField/Builds/
+conquerField/*.sln
+conquerField/*.csproj
 
 # Prerequisites
 *.d
