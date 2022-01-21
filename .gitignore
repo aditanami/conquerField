@@ -1,3 +1,11 @@
+obj/
+Library/
+Logs/
+Temp/
+Builds/
+*.sln
+*.csproj
+
 # Prerequisites
 *.d
 
