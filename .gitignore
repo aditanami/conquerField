@@ -12,6 +12,8 @@ conquerField/*.sln
 conquerField/*.csproj
 conquerField/Assets/ScriptTemplates
 conquerField/Assets/ScriptTemplates.meta
+conquerField/Assets/ParrelSync
+conquerField/Assets/ParrelSync.meta
 
 
 # Prerequisites
