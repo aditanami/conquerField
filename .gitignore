@@ -1,11 +1,17 @@
 conquerField/obj/
 conquerField/Library/
-conquerField/Logs/
+**/Assets/Plugins/*
+**/Assets/Plugins.meta
+**/UserSettings/
 conquerField/Temp/
 conquerField/Builds/
 conquerField/Assets/Mirror/
+conquerField/Assets/Mirror.meta
 conquerField/*.sln
 conquerField/*.csproj
+**/Assets/ScriptTemplates
+**/Assets/ScriptTemplates.meta
+
 
 # Prerequisites
 *.d
