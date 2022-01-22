@@ -3,6 +3,7 @@ conquerField/Library/
 conquerField/Logs/
 conquerField/Temp/
 conquerField/Builds/
+conquerField/Assets/Mirror/
 conquerField/*.sln
 conquerField/*.csproj
 
